@@ -1,4 +1,4 @@
-# resumo-lab-az900
+# Resumo lab az900
 Repositorio de estudos DIO para certificação AZ-900
 
 Microsoft Azure é uma plataforma cloud completa, com recursos gratuitos e pagos para que possamos gerenciar todo nosso park de TI da empresa.
@@ -62,6 +62,12 @@ Para migrar seus dados para o Azure, você pode fazer isso offline ou online, de
 Para migrar os dados temos as seguintes opções.
 * Azure Data Box = dividido em 3 produtos sendo 35Tb, 80 Tb e 100 Tb, é uma copia dos dados do CPD e a mesma copia no datacenter da Microsoft.
 * Az Copy = utilizado para transferir dados via internet para seu azure.
-* 
+
 #Identidade e segurança 
 A camada de segurança e identidade é essencial para manter em pleno funcionamento da cloud. Existe vários recursos para ser usado nesse sentido, onde o principal é o Azure Entra ID o antigo Azure AD. Com o Azure é possível gerenciar contas, acessos, politicas de segurança, infraestrutura. Existe soluções completas afim de deixar nosso ambiente mais seguros.
+
+#Gerenciamento de custos
+Os custos é um fator primordial para a implementação de soluções cloud darem certo em uma empresa, atualmente o maior desafio de uma equipe de administração cloud, é manter o orçamento do TI dentro das expectativas das companhias, após a pandemia muitas empresas fizeram roolback de implementações cloud que tenham feito para o on primese pelo elevado gasto mensal em manter seu ambiente, para isso o Azure possui alguns mecanismo que ajuda gerenciar bem o custo:
+* Calculadora - Traz uma estimativa de custo mensal do uso de determinado serviço ou produto no Azure.
+* Calculadora TCO - Gera um relatório financeiro de comparação de custo de um migração do ambiente on primese para o Azure.
+* Tags - Auxiliar marcar os serviços criados no Azure para posteriormente conseguirmos visualizar na fatura exatamente onde estamos tendo maior gasto ou economia com algum produto ou serviço.
