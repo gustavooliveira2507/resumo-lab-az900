@@ -71,3 +71,6 @@ Os custos é um fator primordial para a implementação de soluções cloud dare
 * Calculadora - Traz uma estimativa de custo mensal do uso de determinado serviço ou produto no Azure.
 * Calculadora TCO - Gera um relatório financeiro de comparação de custo de um migração do ambiente on primese para o Azure.
 * Tags - Auxiliar marcar os serviços criados no Azure para posteriormente conseguirmos visualizar na fatura exatamente onde estamos tendo maior gasto ou economia com algum produto ou serviço.
+
+#Politicas em acessos no Azure
+As polices são encessiais para manter a governança e o compliace de sua plataforma cloud. E as politicas é o meio mais eficaz de estabelecer isso, pois ela independe do nivel do usuário, ou seja, mesmo o administrator da plataforma precisa seguir o que esta determinado nas politicas.
