@@ -74,3 +74,10 @@ Os custos é um fator primordial para a implementação de soluções cloud dare
 
 #Politicas em acessos no Azure
 As polices são encessiais para manter a governança e o compliace de sua plataforma cloud. E as politicas é o meio mais eficaz de estabelecer isso, pois ela independe do nivel do usuário, ou seja, mesmo o administrator da plataforma precisa seguir o que esta determinado nas politicas.
+
+#Ferramentas de Implantação na Azure
+Como um ambiente cloud possui diversas componentes, e produtos para poder operar de forma continua, a configuração de um ambiente cloud em produção tende a ser trabalhosa, e por isso a microsoft fornece ferramentas para auxiliar na implantação desses recursos além do portal web que são:
+* Powershell cli
+* Azure Arc
+* Biceps
+* Agent Cli
