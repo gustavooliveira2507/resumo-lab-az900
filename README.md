@@ -81,3 +81,7 @@ Como um ambiente cloud possui diversas componentes, e produtos para poder operar
 * Azure Arc
 * Biceps
 * Agent Cli
+
+#Monitoramento Inteligente com o Azure
+O monitoramento de recursos, é fundamental para não termos surpresas em nosso ambiente seja no quesito de desempenho, segurança, compliance e financeiro.
+Com Azure Monitor temos recursos o suficiente para obter metricas, dicas, controles se nosso ambiente está de acordo com o planejamento estratégico do TI.
